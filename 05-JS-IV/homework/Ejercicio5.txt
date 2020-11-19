@@ -1,0 +1,16 @@
+Definiciones:
+	-objetos= Un objeto funciona como un contenedor de datos, en este contener se puede acceder a valores a traves de
+palabras clave como por ejemplo si yo armo un objeto de frutas y verduras que contenga los precios, podria acceder al precio
+de el durazno a traves de esa "durazno" que seria la palabra clave.
+
+	-Propiedades= Las propiedades son los valores que contiene el objeto, estos pueden ser tanto como nombre, edad, empresa
+o precio como se dijo anteriormente.
+
+	-Metodos= Los metodos son acciones que se pueden aplicar a un array para obtener diferentes resultados que busquemos, ya
+sea ordenarlo, buscar un valor dentro del array, etc.
+
+	-Bucle for...in= El bucle for...in se usa de forma similar al ciclo for en el array para recorrerla y poder obtener el 
+resultado que busquemos, ya sea multiplicar cada valor o cualquier cosa que busquemos.
+
+	-Notación de puntos vs notación de corchetes= Al usar la notacion con puntos por ejemplo Object.num nos referimos al valor de
+num en si, en cambio si usamos Object[num] nos referimos al valor de la variable que dentro de num
