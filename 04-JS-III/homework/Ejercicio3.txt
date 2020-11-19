@@ -1,0 +1,3 @@
+Definciones;
+	-Array= Un array se puede definir como una lista de cosas, el array puede contener tanto valores numericos o strings.
+es de uso comun en javascript ya que permite almacenar muchos valores sin tener que crear muchas variables.
