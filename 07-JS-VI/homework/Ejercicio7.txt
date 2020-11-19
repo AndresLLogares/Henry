@@ -1,0 +1,3 @@
+Definiciones:
+	-Callback= Los callbacks son funciones que se utilizan dentro de otras funciones para a traves de estas
+poder obtener valores que usaremos en esta funcion
