@@ -1,0 +1,6 @@
+Definiciones:
+	-Propotype= Los propotype son acciones que se realizan para modificar o agregar valores a los objetos
+
+	-Constructors (de Clases)= Los constructors se usan para crear objetos con keys o definiciones especificas 
+que se usaran para agregar valores, por ejemplo si yo defino en el constructor la 1ra key como Nombre, el crear un objeto
+con este contructor el 1er valor sera nombre.
