@@ -1,0 +1,7 @@
+Definiciones:
+	-for= El for normalmente se usa para crear un bucle por el cual se pueda interactuar con todos los valores que contiene un array.
+
+	-&&,||, i= && se usa para declar "y", por ejemplo en un if se puede usar para declarar Si este valor es mayor a 0 && menor a 10 hacer tal cosa,
+algo parecido pasa con || es como decir "o", por ejemplo en el mismo caso de  un if se puede declarar if este string es mayor a 0 || %2 === 0, realizar 
+devolver tal operacion o valor.
+		   La variable i se usa comumente en los ciclos for para designar el valor que se usara para recorrer el array.
