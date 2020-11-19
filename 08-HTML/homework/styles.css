@@ -1,0 +1,72 @@
+.body {
+	background-image: url(https://wallpaperaccess.com/full/150611.jpg);
+}
+
+.General {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-content: center;
+	margin: 5% 5%;
+	justify-content: space-around;
+}
+
+#title {
+	display: flex;
+	align-self: center;
+	font-size: 100px;
+	font-family: Ink Free;
+	justify-content: space-around;
+	margin: 5% 5%;
+}
+
+#segundo {
+	display: flex;
+	align-self: center;
+	font-size: 50px;
+	font-family: News Gothic MT;
+	justify-content: space-around;
+	margin: 5% 5%;
+}
+
+#tercero {
+	display: flex;
+	align-self: center;
+	font-size: 30px;
+	font-family: News Gothic MT;
+	justify-content: space-around;
+	margin: 5% 5%;
+}
+
+#divClass2 {
+		display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-content: center;
+	margin: 5% 5%;
+	justify-content: space-around;
+	font-size: 30px;
+	font-family: News Gothic MT;
+}
+
+#Divclass3 {
+		display: flex;
+	flex-direction: row;
+	align-content: center;
+	justify-content: center;
+	margin: 5% 5%;
+	align-items: center;
+	font-size: 30px;
+	font-family: News Gothic MT;
+	color: black;
+	
+	
+}
+
+#imagen {
+	flex-direction: column;
+	align-self: center;
+	margin: 5% 5%;
+	width: 200px;
+
+}
