@@ -1,0 +1,12 @@
+Definiciones:
+	-variables= Las variables sirven como contenedores de contenido, pueden contener todo tipo de valores, desde texto, numeros y funciones.
+
+	-strings= Los strings empiezan y terminan por " ", pueden contener tanto numeros como letras.
+
+	-funciones= Las funciones pueden contener todo tipo variables y se usan para generar un resultado final de una operacion o una condicion, invocando devuelta a la misma funcion. 
+	
+	-Declaraciones if= Las declaraciones if se usan para establecer una condicion, por ejemplo si esta variable es mayor a 1. multiplicar esta variable * 2
+, pueden determinar cualquier tipo de condicion, para buscar el resultado querido.
+
+	-valores booleanos (true, false)= Los valores booleanos true y false tambien se usan para determinar si un resultado es el esperado o el caso contrario, por ejemplo si buscamos
+que el resultado de una operacion sea positivo podemos determinar a traves de una condcion y que este sea true lo y que el caso contrario sea false.   
